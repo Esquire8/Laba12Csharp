@@ -1,0 +1,11 @@
+C:\Users\Sereja\source\repos\laba12\laba12\bin\Debug\laba12.exe.config
+C:\Users\Sereja\source\repos\laba12\laba12\bin\Debug\laba12.exe
+C:\Users\Sereja\source\repos\laba12\laba12\bin\Debug\laba12.pdb
+C:\Users\Sereja\source\repos\laba12\laba12\obj\Debug\laba12.csproj.AssemblyReference.cache
+C:\Users\Sereja\source\repos\laba12\laba12\obj\Debug\laba12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sereja\source\repos\laba12\laba12\obj\Debug\laba12.Form1.resources
+C:\Users\Sereja\source\repos\laba12\laba12\obj\Debug\laba12.Properties.Resources.resources
+C:\Users\Sereja\source\repos\laba12\laba12\obj\Debug\laba12.csproj.GenerateResource.cache
+C:\Users\Sereja\source\repos\laba12\laba12\obj\Debug\laba12.csproj.CoreCompileInputs.cache
+C:\Users\Sereja\source\repos\laba12\laba12\obj\Debug\laba12.exe
+C:\Users\Sereja\source\repos\laba12\laba12\obj\Debug\laba12.pdb
